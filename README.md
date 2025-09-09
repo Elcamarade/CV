@@ -23,3 +23,7 @@ Română – maternă
 Rusă – avansat
 Engleză – mediu
 Franceza - mediu
+
+## Activități extracurriculare:
+2025	Curs „Cybersecurity Essentials” – Cisco NetAcad
+2025	Voluntariat – Andromeda AI Exhibition
