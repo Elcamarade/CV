@@ -10,9 +10,10 @@ E-mail:	ion***@gmail.com
 ## Obiectiv profesional: 
  Să îmi dezvolt abilitățile într-un mediu de lucru dinamic și să acumulez experiență practică, contribuind activ la succesul echipei.
 
-
-
 ## Educație:
 Gimnaziul *****
 Colegiul UTM
 
+Competențe:
+IT	MS Office, utilizare internet, rețele sociale
+Soft skills	Comunicare eficientă, spirit de echipă, organizare și punctualitate
