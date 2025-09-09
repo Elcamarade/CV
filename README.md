@@ -14,6 +14,12 @@ E-mail:	ion***@gmail.com
 Gimnaziul *****
 Colegiul UTM
 
-Competențe:
+## Competențe:
 IT	MS Office, utilizare internet, rețele sociale
 Soft skills	Comunicare eficientă, spirit de echipă, organizare și punctualitate
+
+## Limbi:	
+Română – maternă
+Rusă – avansat
+Engleză – mediu
+Franceza - mediu
